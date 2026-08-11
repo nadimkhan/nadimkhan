@@ -1,6 +1,6 @@
 # Nadim Khan
 
-**AI Agent Engineer & Blockchain Content Creator** building autonomous agents, trading systems, and developer tooling — in public.
+**AI Agent Engineer & Blockchain Developer** building autonomous agents, trading systems, and developer tooling — in public.
 
 ---
 
